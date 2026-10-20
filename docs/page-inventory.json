@@ -1,0 +1,450 @@
+[
+  {
+    "url": "https://rays.com.pk/",
+    "page_type": "homepage",
+    "present_locally": true,
+    "local_path": "reference/index.html",
+    "notes": "Captured reference homepage markup and inline resources."
+  },
+  {
+    "url": "https://rays.com.pk/product-category/built-in-kitchen-appliances/",
+    "page_type": "category_archive",
+    "present_locally": false,
+    "local_path": null,
+    "notes": "Top-level Built-in Kitchen Appliances category."
+  },
+  {
+    "url": "https://rays.com.pk/product-category/built-in-kitchen-appliances/built-in-microwaves/",
+    "page_type": "subcategory_archive",
+    "present_locally": false,
+    "local_path": null,
+    "notes": "Mega dropdown subcategory for Built-in Microwaves."
+  },
+  {
+    "url": "https://rays.com.pk/product-category/built-in-kitchen-appliances/built-in-ovens/",
+    "page_type": "subcategory_archive",
+    "present_locally": false,
+    "local_path": null,
+    "notes": "Mega dropdown subcategory for Built-in Ovens."
+  },
+  {
+    "url": "https://rays.com.pk/product-category/built-in-kitchen-appliances/built-in-induction-cooktops/",
+    "page_type": "subcategory_archive",
+    "present_locally": false,
+    "local_path": null,
+    "notes": "Mega dropdown subcategory for Built-in Induction Cooktops / Plates."
+  },
+  {
+    "url": "https://rays.com.pk/product-category/built-in-kitchen-appliances/kitchen-hobs/",
+    "page_type": "subcategory_archive",
+    "present_locally": false,
+    "local_path": null,
+    "notes": "Mega dropdown subcategory for Kitchen Hobs."
+  },
+  {
+    "url": "https://rays.com.pk/product-category/built-in-kitchen-appliances/kitchen-hoods/",
+    "page_type": "subcategory_archive",
+    "present_locally": false,
+    "local_path": null,
+    "notes": "Mega dropdown subcategory for Kitchen Hoods."
+  },
+  {
+    "url": "https://rays.com.pk/product-category/microwave-ovens/",
+    "page_type": "category_archive",
+    "present_locally": false,
+    "local_path": null,
+    "notes": "Standalone Microwave Ovens category."
+  },
+  {
+    "url": "https://rays.com.pk/product-category/small-electronics/oven-toasters/",
+    "page_type": "subcategory_archive",
+    "present_locally": false,
+    "local_path": null,
+    "notes": "Subcategory for Oven Toasters."
+  },
+  {
+    "url": "https://rays.com.pk/product-category/small-domestic-appliances/",
+    "page_type": "category_archive",
+    "present_locally": false,
+    "local_path": null,
+    "notes": "Small Domestic Appliances category."
+  },
+  {
+    "url": "https://rays.com.pk/product-category/counter-top-plates/",
+    "page_type": "category_archive",
+    "present_locally": false,
+    "local_path": null,
+    "notes": "Counter-top cooking hot plates."
+  },
+  {
+    "url": "https://rays.com.pk/product-category/blender-grinders/",
+    "page_type": "category_archive",
+    "present_locally": false,
+    "local_path": null,
+    "notes": "Blender & Grinders category."
+  },
+  {
+    "url": "https://rays.com.pk/product-category/small-electronics/irons/",
+    "page_type": "subcategory_archive",
+    "present_locally": false,
+    "local_path": null,
+    "notes": "Electric and dry irons category."
+  },
+  {
+    "url": "https://rays.com.pk/product-category/small-electronics/electric-kettles/",
+    "page_type": "subcategory_archive",
+    "present_locally": false,
+    "local_path": null,
+    "notes": "Electric Kettles category."
+  },
+  {
+    "url": "https://rays.com.pk/product-category/small-electronics/hand-blenders/",
+    "page_type": "subcategory_archive",
+    "present_locally": false,
+    "local_path": null,
+    "notes": "Hand Blenders category."
+  },
+  {
+    "url": "https://rays.com.pk/product-category/juicers/",
+    "page_type": "category_archive",
+    "present_locally": false,
+    "local_path": null,
+    "notes": "Juicers category."
+  },
+  {
+    "url": "https://rays.com.pk/product-category/small-electronics/sandwich-makers/",
+    "page_type": "subcategory_archive",
+    "present_locally": false,
+    "local_path": null,
+    "notes": "Sandwich Makers category."
+  },
+  {
+    "url": "https://rays.com.pk/product-category/small-domestic-appliances/slice-toasters/",
+    "page_type": "subcategory_archive",
+    "present_locally": false,
+    "local_path": null,
+    "notes": "Slice Toasters category."
+  },
+  {
+    "url": "https://rays.com.pk/product-category/geysers/",
+    "page_type": "category_archive",
+    "present_locally": false,
+    "local_path": null,
+    "notes": "Water Heaters / Geysers category."
+  },
+  {
+    "url": "https://rays.com.pk/product-category/geysers/fast-electric/",
+    "page_type": "subcategory_archive",
+    "present_locally": false,
+    "local_path": null,
+    "notes": "Fast Electric Geysers subcategory."
+  },
+  {
+    "url": "https://rays.com.pk/product-category/geysers/instant-gas/",
+    "page_type": "subcategory_archive",
+    "present_locally": false,
+    "local_path": null,
+    "notes": "Instant Gas Geysers subcategory."
+  },
+  {
+    "url": "https://rays.com.pk/product-category/air-fryer-ovens/",
+    "page_type": "category_archive",
+    "present_locally": false,
+    "local_path": null,
+    "notes": "Air Fryer Ovens category."
+  },
+  {
+    "url": "https://rays.com.pk/wishlist/",
+    "page_type": "ecommerce_utility",
+    "present_locally": false,
+    "local_path": null,
+    "notes": "WoodMart / YITH wishlist management page."
+  },
+  {
+    "url": "https://rays.com.pk/cart/",
+    "page_type": "ecommerce_cart",
+    "present_locally": false,
+    "local_path": null,
+    "notes": "WooCommerce shopping cart page."
+  },
+  {
+    "url": "https://rays.com.pk/compare/",
+    "page_type": "ecommerce_utility",
+    "present_locally": false,
+    "local_path": null,
+    "notes": "WoodMart product comparison table."
+  },
+  {
+    "url": "https://rays.com.pk/shop/",
+    "page_type": "ecommerce_shop",
+    "present_locally": false,
+    "local_path": null,
+    "notes": "Full shop catalogue root archive."
+  },
+  {
+    "url": "https://rays.com.pk/rays-near-you/",
+    "page_type": "dealer_locator",
+    "present_locally": false,
+    "local_path": null,
+    "notes": "Physical retail store / dealer locator map."
+  },
+  {
+    "url": "https://rays.com.pk/?page_id=70",
+    "page_type": "unknown",
+    "present_locally": false,
+    "local_path": null,
+    "notes": "Draft or informational WordPress page reference."
+  },
+  {
+    "url": "https://rays.com.pk/?page_id=72",
+    "page_type": "unknown",
+    "present_locally": false,
+    "local_path": null,
+    "notes": "Draft or informational WordPress page reference."
+  },
+  {
+    "url": "https://rays.com.pk/sitemap_index.xml",
+    "page_type": "sitemap",
+    "present_locally": false,
+    "local_path": null,
+    "notes": "XML SEO sitemap index."
+  },
+  {
+    "url": "https://rays.com.pk/product/rays-1-7-liters-electric-kettle-ek-1701/",
+    "page_type": "single_product",
+    "present_locally": false,
+    "local_path": null,
+    "notes": "Electric Kettle EK-1701 product page."
+  },
+  {
+    "url": "https://rays.com.pk/product/rays-4-in-1-juicer-rsa-1411/",
+    "page_type": "single_product",
+    "present_locally": false,
+    "local_path": null,
+    "notes": "4-in-1 Juicer RSA-1411 product page."
+  },
+  {
+    "url": "https://rays.com.pk/product/rays-2-slice-sandwich-maker-sm-3000/",
+    "page_type": "single_product",
+    "present_locally": false,
+    "local_path": null,
+    "notes": "Sandwich Maker SM-3000 product page."
+  },
+  {
+    "url": "https://rays.com.pk/product/rays-1000w-dry-iron-ir-110/",
+    "page_type": "single_product",
+    "present_locally": false,
+    "local_path": null,
+    "notes": "1000W Dry Iron IR-110 product page."
+  },
+  {
+    "url": "https://rays.com.pk/product/rays-1-7-liters-electric-kettle-rek-1720/",
+    "page_type": "single_product",
+    "present_locally": false,
+    "local_path": null,
+    "notes": "1.7L Electric Kettle REK-1720 product page."
+  },
+  {
+    "url": "https://rays.com.pk/product/rays-1-5-liters-blender-grinder-bl-260bg/",
+    "page_type": "single_product",
+    "present_locally": false,
+    "local_path": null,
+    "notes": "1.5L Blender Grinder BL-260BG product page."
+  },
+  {
+    "url": "https://rays.com.pk/product/rays-3-in-1-hand-blender-rhb-1000/",
+    "page_type": "single_product",
+    "present_locally": false,
+    "local_path": null,
+    "notes": "3-in-1 Hand Blender RHB-1000 product page."
+  },
+  {
+    "url": "https://rays.com.pk/product/rays-2-slice-sandwich-maker-sm-1002/",
+    "page_type": "single_product",
+    "present_locally": false,
+    "local_path": null,
+    "notes": "2-Slice Sandwich Maker SM-1002 product page."
+  },
+  {
+    "url": "https://rays.com.pk/product/rays-25-liters-built-in-grill-microwave-oven-awm-26/",
+    "page_type": "single_product",
+    "present_locally": false,
+    "local_path": null,
+    "notes": "25L Built-in Grill Microwave Oven AWM-26 product page."
+  },
+  {
+    "url": "https://rays.com.pk/product/rays-38-liters-built-in-combi-microwave-oven-mwo-32/",
+    "page_type": "single_product",
+    "present_locally": false,
+    "local_path": null,
+    "notes": "38L Built-in Combi Microwave Oven MWO-32 product page."
+  },
+  {
+    "url": "https://rays.com.pk/product/rays-25-liters-built-in-grill-microwave-oven-meg-95b-bg/",
+    "page_type": "single_product",
+    "present_locally": false,
+    "local_path": null,
+    "notes": "25L Built-in Microwave MEG-95B-BG product page."
+  },
+  {
+    "url": "https://rays.com.pk/product/rays-25-liters-built-in-grill-microwave-oven-meg-95b-ss/",
+    "page_type": "single_product",
+    "present_locally": false,
+    "local_path": null,
+    "notes": "25L Built-in Microwave MEG-95B-SS product page."
+  },
+  {
+    "url": "https://rays.com.pk/product/rays-25-liters-built-in-grill-microwave-oven-awm-25/",
+    "page_type": "single_product",
+    "present_locally": false,
+    "local_path": null,
+    "notes": "25L Built-in Microwave AWM-25 product page."
+  },
+  {
+    "url": "https://rays.com.pk/product/rays-56-liters-built-in-oven-f60tix/",
+    "page_type": "single_product",
+    "present_locally": false,
+    "local_path": null,
+    "notes": "56L Built-in Oven F60TIX product page."
+  },
+  {
+    "url": "https://rays.com.pk/product/rays-80-liters-built-in-oven-ro-10q70af/",
+    "page_type": "single_product",
+    "present_locally": false,
+    "local_path": null,
+    "notes": "80L Built-in Oven RO-10Q70AF product page."
+  },
+  {
+    "url": "https://rays.com.pk/product/rays-56-liters-built-in-oven-f86etix/",
+    "page_type": "single_product",
+    "present_locally": false,
+    "local_path": null,
+    "notes": "56L Built-in Oven F86ETIX product page."
+  },
+  {
+    "url": "https://rays.com.pk/product/rays-70-liters-built-in-oven-40fbg-e/",
+    "page_type": "single_product",
+    "present_locally": false,
+    "local_path": null,
+    "notes": "70L Built-in Oven 40FBG-E product page."
+  },
+  {
+    "url": "https://rays.com.pk/product/rays-56-liters-built-in-oven-fge2tix/",
+    "page_type": "single_product",
+    "present_locally": false,
+    "local_path": null,
+    "notes": "56L Built-in Oven FGE2TIX product page."
+  },
+  {
+    "url": "https://rays.com.pk/product/rays-1-burner-stainless-steel-gas-kitchen-hob-3111-s1/",
+    "page_type": "single_product",
+    "present_locally": false,
+    "local_path": null,
+    "notes": "1-Burner Stainless Steel Hob 3111-S1 product page."
+  },
+  {
+    "url": "https://rays.com.pk/product/rays-4-burners-glass-top-gas-kitchen-hob-6314-g1/",
+    "page_type": "single_product",
+    "present_locally": false,
+    "local_path": null,
+    "notes": "4-Burners Glass Top Hob 6314-G1 product page."
+  },
+  {
+    "url": "https://rays.com.pk/product/rays-3-burners-ceramic-glass-top-gas-electric-kitchen-hob-rg-8603b/",
+    "page_type": "single_product",
+    "present_locally": false,
+    "local_path": null,
+    "notes": "3-Burners Ceramic Hob RG-8603B product page."
+  },
+  {
+    "url": "https://rays.com.pk/product/rays-5-burners-stainless-steel-gas-kitchen-hob-81602-ss/",
+    "page_type": "single_product",
+    "present_locally": false,
+    "local_path": null,
+    "notes": "5-Burners Stainless Steel Hob 81602-SS product page."
+  },
+  {
+    "url": "https://rays.com.pk/product/rays-2-burners-glass-top-gas-kitchen-hob-3112-g1/",
+    "page_type": "single_product",
+    "present_locally": false,
+    "local_path": null,
+    "notes": "2-Burners Glass Top Hob 3112-G1 product page."
+  },
+  {
+    "url": "https://rays.com.pk/product/rays-2-burners-stainless-steel-gas-kitchen-hob-3112-s1/",
+    "page_type": "single_product",
+    "present_locally": false,
+    "local_path": null,
+    "notes": "2-Burners Stainless Steel Hob 3112-S1 product page."
+  },
+  {
+    "url": "https://rays.com.pk/product/rays-1-burner-glass-top-gas-kitchen-hob-3111-g1/",
+    "page_type": "single_product",
+    "present_locally": false,
+    "local_path": null,
+    "notes": "1-Burner Glass Top Hob 3111-G1 product page."
+  },
+  {
+    "url": "https://rays.com.pk/product/rays-4-burners-stainless-steel-gas-kitchen-hob-6354-s1/",
+    "page_type": "single_product",
+    "present_locally": false,
+    "local_path": null,
+    "notes": "4-Burners Stainless Steel Hob 6354-S1 product page."
+  },
+  {
+    "url": "https://rays.com.pk/product/rays-90cm-wall-mounted-kitchen-hood-108qa90-%d1%82/",
+    "page_type": "single_product",
+    "present_locally": false,
+    "local_path": null,
+    "notes": "90cm Kitchen Hood 108QA90-T product page."
+  },
+  {
+    "url": "https://rays.com.pk/product/rays-60cm-wall-mounted-kitchen-hood-rkh-6006cb/",
+    "page_type": "single_product",
+    "present_locally": false,
+    "local_path": null,
+    "notes": "60cm Kitchen Hood RKH-6006CB product page."
+  },
+  {
+    "url": "https://rays.com.pk/product/rays-90cm-wall-mounted-kitchen-hood-hcf-22/",
+    "page_type": "single_product",
+    "present_locally": false,
+    "local_path": null,
+    "notes": "90cm Kitchen Hood HCF-22 product page."
+  },
+  {
+    "url": "https://rays.com.pk/product/rays-60cm-wall-mounted-kitchen-hood-6160-p1-black/",
+    "page_type": "single_product",
+    "present_locally": false,
+    "local_path": null,
+    "notes": "60cm Kitchen Hood 6160-P1-Black product page."
+  },
+  {
+    "url": "https://rays.com.pk/product/rays-90cm-island-kitchen-hood-ms-94/",
+    "page_type": "single_product",
+    "present_locally": false,
+    "local_path": null,
+    "notes": "90cm Island Hood MS-94 product page."
+  },
+  {
+    "url": "https://rays.com.pk/product/rays-90cm-island-kitchen-hood-105ja90-t/",
+    "page_type": "single_product",
+    "present_locally": false,
+    "local_path": null,
+    "notes": "90cm Island Hood 105JA90-T product page."
+  },
+  {
+    "url": "https://rays.com.pk/product/rays-90cm-island-kitchen-hood-8490/",
+    "page_type": "single_product",
+    "present_locally": false,
+    "local_path": null,
+    "notes": "90cm Island Hood 8490 product page."
+  },
+  {
+    "url": "https://rays.com.pk/product/rays-90cm-wall-mounted-kitchen-hood-rkh-9006cb/",
+    "page_type": "single_product",
+    "present_locally": false,
+    "local_path": null,
+    "notes": "90cm Kitchen Hood RKH-9006CB product page."
+  }
+]

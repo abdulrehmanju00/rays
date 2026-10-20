@@ -1,0 +1,8 @@
+{
+  "name": "Rays Pakistan – Home Appliances",
+  "description": "Captured reference and catalog presentation for Rays Pakistan home appliances.",
+  "permissions": [],
+  "capabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
